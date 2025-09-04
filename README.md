@@ -17,10 +17,18 @@ Copy code
 2. Open the project in your Java IDE.
 3. Compile and run `Main.java`.
 
-## Usage
-Enter text:
+## Sample Input/Output
+
+**Input (input1.txt):**
 Hello world hello
+
+markdown
+Copy code
+
+**Output (output1.txt):**
 Unique words:
 Hello: 1
 world: 1
 hello: 1
+
+Copy code
