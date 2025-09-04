@@ -10,7 +10,7 @@ import java.util.Scanner;
         int cols = scanner.nextInt();
 
         int[][][] array3D = new int[depth][rows][cols];
-        // Write your code below
+        
         for (int i=0;i<depth;i++){
             for(int j=0;j<rows;j++){
                 for(int k=0;k<cols;k++){
